@@ -1,11 +1,11 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Nevin Demilliano"
+  title : "I'm Nevin deMilliano"
 
   # animated text loop
   occupations:
-    - "Social Media Expert"
-    - "Graphic Designer"
+    - "Social Media Manager"
+    - "StormChaser"
     - "Expert Tweeter"
 
   # slider background image loop
@@ -25,8 +25,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
-  first_name : "MacGyver"
-  last_name : "SOMRAT"
+  first_name : "Nevin"
+  last_name : "deMilliano"
   
 
 ########################### About ##################################
@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Nevin, Professional Tweeter. I love to blah blah blah..."
+  content : "It's Nevin, Professional Tweeter. My passion is fueled by breaking down social media to its simplest form — a place to have a conversation. A lot of important perspectives are shared through social media. But before we get into why you're interested in exploring or harnessing these online conversations — here's a bit about me:  "
   # button
   button:
     enable : true
@@ -93,27 +93,39 @@ service:
   title : "SERVICES"
   service_list:
     # service item loop
-    - name : "Web Development"
+    - name : "Social Media Awareness Training"
       image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Graphic Design"
+    - name : "Social Media Copywriting"
       image : "images/icons/graphic-design.png"
       
     # service item loop
-    - name : "Database Management"
+    - name : "Social Media Response Matrix Development"
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Software Development"
+    - name : "Social Listening/Reporting"
       image : "images/icons/software-development.png"
       
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Brand Voice and Tone Style Guide Development"
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Mobile App Development"
+    - name : "Crisis & Risk Management"
+      image : "images/icons/mobile-app.png"
+      
+    # service item loop
+    - name : "Strategy and Tactical Planning"
+      image : "images/icons/mobile-app.png"
+      
+    # service item loop
+    - name : "Brand/Sport/Event Specific Social Media Management"
+      image : "images/icons/mobile-app.png"
+      
+    # service item loop
+    - name : "Brand/Sport/Event Specific Social Media Management"
       image : "images/icons/mobile-app.png"
 
 
@@ -121,7 +133,8 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "GET IN TOUCH"
+  content : "I'm currently working as a Social Media Specialist and ready to hear about how you'd like to cultivate those important online conversations for your brand or project. Reach out to demillia@ualberta.ca to connect!"
   button:
     enable : true
     label : "SAY HELLO!"
@@ -230,9 +243,9 @@ testimonial:
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
-    - name : "Micheal Clark"
+    - name : "Brendan Bottcher"
       image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
+      designation : "SKIP, 3x Brier Silver Metalist and World Junior Champion Team Bottcher"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
                 
