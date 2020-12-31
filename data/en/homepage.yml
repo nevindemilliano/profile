@@ -11,7 +11,7 @@ hero:
   # slider background image loop
   slider_image:
     - "images/slider/CC101317_9761.jpg"
-    - "images/slider/CC101317_9776.jpg"
+    - "images/slider/Web-9539.jpg.jpg"
     - "images/slider/CC101317_9733.jpg"
 
   # button
@@ -32,7 +32,7 @@ fullscreen_nav:
 ########################### About ##################################
 about:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/_CRO8102.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Nevin, Professional Tweeter. Social media is a phenominal place to have a conversation. Before we get into why you're interested in exploring or harnessing these online conversations — here's a bit about me:  "
   # button
