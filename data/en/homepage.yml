@@ -5,7 +5,7 @@ hero:
   # animated text loop
   occupations:
     - "Social Media Manager"
-    - "StormChaser"
+    - "Storm Chaser"
     - "Expert Tweeter"
 
   # slider background image loop
@@ -24,7 +24,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  bg_image : "images/backgrounds/Web-9543.jpg.jpg"
   first_name : "Nevin"
   last_name : "deMilliano"
   
@@ -244,7 +244,7 @@ testimonial:
   testimonial_slider:
     # slider item loop
     - name : "Brendan Bottcher"
-      image : "images/clients/client1.jpg"
+      image : "images/clients/Brendan-Bottcher-1040x572.jpg"
       designation : "SKIP, 3x Brier Silver Metalist and World Junior Champion Team Bottcher"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
