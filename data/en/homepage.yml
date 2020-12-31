@@ -147,25 +147,25 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "TeamBottcher"
       image : "images/portfolio/IMG_3210.JPG"
       date : "November 2020"
       category : "Professional Sports Twitter"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "TeamBottcher"
       image : "images/portfolio/IMG_3211.JPG"
       date : "March 2020"
       category : "Fan Engagement"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Conference"
       image : "images/portfolio/IMG_3238.JPEG"
       date : "April 2019"
       category : "Event Social"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "TeamBottcher"
       image : "images/portfolio/IMG_3231.JPEG"
       date : "March 2019"
       category : "Sports Team Twitter"
@@ -182,61 +182,6 @@ portfolio:
       date : "Oct 2020"
       category : "Brand Social"
       
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item8.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item9.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item10.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item11.jpg"
-      date : "Feb 2018"
-      category : "Database"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item12.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item13.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item14.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-      
-    # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item15.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
-
-
 ################################# Testimonial #########################33
 testimonial:
   enable : true
@@ -245,7 +190,7 @@ testimonial:
     # slider item loop
     - name : "Brendan Bottcher"
       image : "images/clients/Brendan-Bottcher-1040x572.jpg"
-      designation : "SKIP, 3x Brier Silver Metalist and World Junior Champion Team Bottcher"
+      designation : "SKIP Team Bottcher (ranked #4 in World), 3x Brier Silver Metalist, World Junior Champion"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
                 
@@ -271,7 +216,7 @@ funfacts:
     # funfacts item loop
     - name : "CURRENT FOLLOWER COUNT MANAGED"
       image : "images/icons/works.png"
-      count : "+130K"
+      count : "130,000"
       
     # funfacts item loop
     - name : "# OF CURRENT BRANDS MANAGED"
