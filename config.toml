@@ -1,6 +1,6 @@
 baseURL = "https://www.nevintweets.com/"
 languageCode = "en-us"
-title = "Nevin Demilliano's Portfolio"
+title = "Nevin deMilliano's Portfolio"
 theme = "somrat"
 disableLanguages = [] # disable language from here
 
@@ -91,7 +91,7 @@ google_analytics_id = "" # your id
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "images/source.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
@@ -100,7 +100,7 @@ link = "https://www.facebook.com/somrat.mac"
 
 [[params.social]]
 icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/somrat_37"
+link = "https://twitter.com/swiftchaser"
 
 [[params.social]]
 icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
@@ -112,7 +112,7 @@ link = "https://github.com/Somrat37"
 
 [[params.social]]
 icon = "fa-linkedin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://www.linkedin.com/in/nevindemilliano/"
 
 
 ################################### English language #####################################
@@ -123,7 +123,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright Nevin deMilliano &copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################################### French language #####################################
