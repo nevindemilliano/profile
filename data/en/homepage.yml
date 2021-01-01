@@ -212,7 +212,7 @@ funfacts:
     # funfacts item loop
     - name : "CURRENT FOLLOWER COUNT MANAGED"
       image : "images/icons/works.png"
-      count : "130,000"
+      count : "130000"
       
     # funfacts item loop
     - name : "# OF CURRENT BRANDS MANAGED"
