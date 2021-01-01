@@ -123,10 +123,6 @@ service:
     # service item loop
     - name : "Brand/Sport/Event Specific Social Media Management"
       image : "images/icons/mobile-app.png"
-      
-    # service item loop
-    - name : "Brand/Sport/Event Specific Social Media Management"
-      image : "images/icons/mobile-app.png"
 
 
 ############################## call to action #########################
