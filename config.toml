@@ -78,11 +78,11 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/mylogolighttext.png"
+logo_dark = "images/mylogodarktext.png"
 # Meta data
-description = "This is meta description"
-author = "somrat"
+description = "Nevin deMilliano's social media portfolio"
+author = "Nevin deMilliano"
 # contact form action
 contact_form_action = "" # contact form works with https://formspree.io
 # Google analytics
@@ -123,7 +123,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright Nevin deMilliano &copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright Nevin deMilliano"
 
 
 ################################### French language #####################################
