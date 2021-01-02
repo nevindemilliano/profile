@@ -91,7 +91,7 @@ google_analytics_id = "" # your id
 # Preloader
 [params.preloader]
 enable = true
-preloader = "source.gif" # use jpg, png, svg or gif format.
+preloader = "images/source.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
