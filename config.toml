@@ -94,15 +94,12 @@ enable = true
 preloader = "images/source.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-
 [[params.social]]
 icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 link = "https://twitter.com/swiftchaser"
-
 [[params.social]]
 icon = "fa-linkedin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 link = "https://www.linkedin.com/in/nevindemilliano/"
-
 
 ################################### English language #####################################
 [Languages.en]
