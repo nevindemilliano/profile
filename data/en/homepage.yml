@@ -150,13 +150,13 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "Team Bottcher"
       image : "images/portfolio/IMG_3210.JPG"
       date : "November 2020"
       category : "Professional Sports Twitter"
       
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "Team Bottcher"
       image : "images/portfolio/IMG_3211.JPG"
       date : "March 2020"
       category : "Fan Engagement"
@@ -168,7 +168,7 @@ portfolio:
       category : "Event Social"
       
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "Team Bottcher"
       image : "images/portfolio/IMG_3231.JPEG"
       date : "March 2019"
       category : "Sports Team Twitter"
