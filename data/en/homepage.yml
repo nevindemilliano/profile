@@ -6,6 +6,9 @@ hero:
   occupations:
     - "Social Media Manager"
     - "Storm Chaser"
+    - "Speaker"
+    - "Remo Operator"
+    - "Livestreamer"
     - "Expert Tweeter"
 
   # slider background image loop
@@ -122,6 +125,10 @@ service:
       
     # service item loop
     - name : "Brand/Sport/Event Specific Social Media Management"
+      image : "images/icons/mobile-app.png"
+
+    # service item loop
+    - name : "Livestreaming/Virtual Event Operating"
       image : "images/icons/mobile-app.png"
 
 
