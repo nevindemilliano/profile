@@ -150,37 +150,37 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "<br> TeamBottcher"
       image : "images/portfolio/IMG_3210.JPG"
       date : "November 2020"
       category : "Professional Sports Twitter"
       
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "<br> TeamBottcher"
       image : "images/portfolio/IMG_3211.JPG"
       date : "March 2020"
       category : "Fan Engagement"
       
     # portfolio item loop
-    - name : "Conference"
+    - name : "Live <br> Conference"
       image : "images/portfolio/IMG_3238.JPEG"
       date : "April 2019"
       category : "Event Social"
       
     # portfolio item loop
-    - name : "TeamBottcher"
+    - name : "Team <br> Bottcher"
       image : "images/portfolio/IMG_3231.JPEG"
       date : "March 2019"
       category : "Sports Team Twitter"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Team <br> Bottcher"
       image : "images/portfolio/IMG_3232.JPEG"
       date : "Mar 2019"
       category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Project <br> Innovate Edmonton"
       image : "images/portfolio/IMG_3236.JPEG"
       date : "Oct 2020"
       category : "Brand Social"
