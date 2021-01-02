@@ -24,7 +24,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/Web-9543.jpg.jpg"
+  bg_image : "images/backgrounds/Web-9543.jpg"
   first_name : "Nevin"
   last_name : "deMilliano"
   
