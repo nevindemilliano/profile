@@ -84,7 +84,7 @@ logo_dark = "images/mylogodarktext.png"
 description = "Nevin deMilliano's social media portfolio"
 author = "Nevin deMilliano"
 # contact form action
-contact_form_action = "" # contact form works with https://formspree.io
+contact_form_action = "https://getform.io/f/ae76ba0f-3a85-4dac-bbea-96497c2a5032" # contact form works with https://formspree.io
 # Google analytics
 google_analytics_id = "" # your id
 twitter_card_image = "https://www.nevintweets.com/images/mylogodarktext.png"
