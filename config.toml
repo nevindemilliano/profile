@@ -87,6 +87,7 @@ author = "Nevin deMilliano"
 contact_form_action = "" # contact form works with https://formspree.io
 # Google analytics
 google_analytics_id = "" # your id
+twitter_card_image = "images/mylogodarktext.png"
 
 # Preloader
 [params.preloader]

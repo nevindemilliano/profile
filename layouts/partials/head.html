@@ -5,6 +5,12 @@
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:creator" content="@swiftchaser" />
+  <meta property="og:url" content="https://www.nevintweets.com/" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+  {{ with .Site.Params.twitter_card_image }}<meta property="og:image" content="{{ . }}" />{{ end }}
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
