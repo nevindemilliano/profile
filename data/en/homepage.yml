@@ -37,9 +37,7 @@ about:
   enable : true
   image : "images/backgrounds/_CRO8102.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Nevin, Professional Tweeter. Social media is a phenominal place to have a conversation. Before we get into why you're interested in exploring or harnessing these online conversations — here's a bit about me.
-  
-  In 2011, I discovered the incredible conversations and community taking place on social media. Despite some of the harmful content and connotations, I see brands harness incredible insight from social media when paired with the right strategy. Whatever team I am on, my goal is to make sure everyone feels comfortable and in control while on social media! When I'm not with our amazing team at Startup Edmonton you'll find me roaming the prairies and plains chasing storms with the Prairie Storm Chasers or at the local curling club."
+  content : "It's Nevin, Professional Tweeter. Social media is a phenominal place to have a conversation. Before we get into why you're interested in exploring or harnessing these online conversations — here's a bit about me."
   # button
   button:
     enable : true
@@ -71,27 +69,11 @@ experience:
 
 
 ############################### Skill #################################
-skill:
+My Thesis:
   enable : true
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
-
+  title : "My Social Media Thesis"
+  content: "In 2011, I discovered the incredible conversations and community taking place on social media. Despite some of the harmful content and connotations, I see brands harness incredible insight from social media when paired with the right strategy. Whatever team I am on, my goal is to make sure everyone feels comfortable and in control while on social media! When I'm not with our amazing team at Startup Edmonton you'll find me roaming the prairies and plains chasing storms with the Prairie Storm Chasers or at the local curling club."
+    
 ################################### Service ##############################3
 service:
   enable : true
