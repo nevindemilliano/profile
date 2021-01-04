@@ -53,19 +53,19 @@ experience:
     - name : "Social Media Specialist"
       company : "Innovate Edmonton, Startup Edmonton, Edmonton Made, Make Something Edmonton (retired)"
       duration : "2018-Current"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-commerce etc."
+      content : "Brand management, daily social media, strategy, campaigns, comms, voice and tone development, livestreaming, more."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Cofounder"
+      company : "PrairieChasers.com"
+      duration : "2012-current"
+      content : "Brand development, social media management, sponsorship, media relations"
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Team Bottcher Twitter"
+      company : "Pro Curling Team"
+      duration : "2016-current"
+      content : "Brand voice and tone development, fan engagement, social media management"
 
 
 ############################### Skill #################################
