@@ -42,7 +42,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "images/backgrounds/Nevin_deMilliano_Resume2020.pdf" # you can put your cv in static folder and give the path here.
+    link : "images/Nevin_deMilliano_Resume2020.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
