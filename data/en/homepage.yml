@@ -134,7 +134,7 @@ portfolio:
   portfolio_list:
     # portfolio item loop
     - name : "Team Bottcher"
-      image : "images/portfolio/IMG_3212.JPG"
+      image : "images/portfolio/IMG_3212.JPEG"
       date : "November 2020"
       category : "Professional Sports Twitter"
       
@@ -152,13 +152,13 @@ portfolio:
       
     # portfolio item loop
     - name : "Team Bottcher"
-      image : "images/portfolio/IMG_3214.JPEG"
+      image : "images/portfolio/IMG_3214.JPG"
       date : "March 2019"
       category : "Sports Team Twitter"
       
     # portfolio item loop
     - name : "Team <br> Bottcher"
-      image : "images/portfolio/IMG_3226.JPEG"
+      image : "images/portfolio/IMG_3226.JPG"
       date : "Mar 2019"
       category : "Web Development"
       
