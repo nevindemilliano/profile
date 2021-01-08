@@ -134,7 +134,7 @@ portfolio:
   portfolio_list:
     # portfolio item loop
     - name : "Team Bottcher"
-      image : "images/portfolio/IMG_3210.JPG"
+      image : "images/portfolio/IMG_3212.JPG"
       date : "November 2020"
       category : "Professional Sports Twitter"
       
@@ -152,18 +152,18 @@ portfolio:
       
     # portfolio item loop
     - name : "Team Bottcher"
-      image : "images/portfolio/IMG_3231.JPEG"
+      image : "images/portfolio/IMG_3214.JPEG"
       date : "March 2019"
       category : "Sports Team Twitter"
       
     # portfolio item loop
     - name : "Team <br> Bottcher"
-      image : "images/portfolio/IMG_3232.JPEG"
+      image : "images/portfolio/IMG_3226.JPEG"
       date : "Mar 2019"
       category : "Web Development"
       
     # portfolio item loop
-    - name : "Innovate <br> Edmonton"
+    - name : "Startup <br> Edmonton"
       image : "images/portfolio/IMG_3236.JPEG"
       date : "Oct 2020"
       category : "Brand Social"
