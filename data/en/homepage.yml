@@ -164,7 +164,7 @@ portfolio:
       category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Innovate Edmonton"
+    - name : "Innovate <br> Edmonton"
       image : "images/portfolio/IMG_3236.JPEG"
       date : "Oct 2020"
       category : "Brand Social"
@@ -178,8 +178,8 @@ testimonial:
     - name : "Brendan Bottcher"
       image : "images/clients/Brendan-Bottcher-1040x572.jpg"
       designation : "SKIP Team Bottcher (ranked #4 in World), 3x Brier Silver Metalist, World Junior Champion"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Nevin has been active, engaged and witty, and growing our fan base. 
+                        He understands us, our team, and I feel he would do a fantastic job for anyone else looking to grow their social media."
                 
     # slider item loop
     - name : "Peter Parker"
