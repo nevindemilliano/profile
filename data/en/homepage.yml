@@ -136,7 +136,7 @@ portfolio:
     - name : "Team <br> Bottcher"
       image : "images/portfolio/IMG_3226.JPG"
       date : "Mar 2019"
-      category : "Web Development"
+      category : "Sports Twitter"
       
     # portfolio item loop
     - name : "Team Bottcher"
