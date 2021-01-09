@@ -132,6 +132,12 @@ portfolio:
   enable : true
   title : "PORTFOLIO"
   portfolio_list:
+      # portfolio item loop
+    - name : "Team <br> Bottcher"
+      image : "images/portfolio/IMG_3226.JPG"
+      date : "Mar 2019"
+      category : "Web Development"
+      
     # portfolio item loop
     - name : "Team Bottcher"
       image : "images/portfolio/IMG_3212.JPEG"
@@ -155,12 +161,6 @@ portfolio:
       image : "images/portfolio/IMG_3214.JPG"
       date : "March 2019"
       category : "Sports Team Twitter"
-      
-    # portfolio item loop
-    - name : "Team <br> Bottcher"
-      image : "images/portfolio/IMG_3226.JPG"
-      date : "Mar 2019"
-      category : "Web Development"
       
     # portfolio item loop
     - name : "Startup <br> Edmonton"
