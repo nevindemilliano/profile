@@ -53,3 +53,9 @@
     padding: 0;
     border: 0;
 }
+.menu-normal {
+    box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.3);
+}
+.service-label span {
+    display: none;
+}
