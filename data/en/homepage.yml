@@ -49,7 +49,7 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Social Media Specialist"
+    - name : "Content Strategist/Social Media Specialist"
       company : "Innovate Edmonton, Startup Edmonton, Edmonton Made, Make Something Edmonton (retired)"
       duration : "2018-Current"
       content : "Brand management, daily social media, strategy, campaigns, comms, voice and tone development, livestreaming, more."
@@ -120,7 +120,7 @@ call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
   title : "GET IN TOUCH"
-  content : "I'm currently working as a Social Media Specialist and ready to hear about how you'd like to cultivate those important online conversations for your brand or project. Reach out to demillia@ualberta.ca to connect!"
+  content : "I'm currently working as a Content Strategist and ready to hear about how you'd like to cultivate those important online conversations for your brand or project. Reach out to demillia@ualberta.ca to connect!"
   button:
     enable : true
     label : "SAY HELLO!"
@@ -176,7 +176,7 @@ testimonial:
     # slider item loop
     - name : "Brendan Bottcher"
       image : "images/clients/Brendan-Bottcher-1040x572.jpg"
-      designation : "SKIP Team Bottcher (ranked #4 in World), 3x Brier Silver Metalist, World Junior Champion"
+      designation : "SKIP Team Bottcher, 2021 Brier Champion, Team Canada, World Junior Champion"
       content : "Nevin has been active, engaged and witty, and growing our fan base. 
                         He understands us, our team, and I feel he would do a fantastic job for anyone else looking to grow their social media."
                 
