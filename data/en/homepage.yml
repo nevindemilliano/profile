@@ -49,10 +49,16 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Content Strategist/Social Media Specialist"
-      company : "Innovate Edmonton, Startup Edmonton, Edmonton Made, Make Something Edmonton (retired)"
+    - name : "Content Strategist"
+      company : "Innovate Edmonton, Edmonton Made, Make Something Edmonton (retired)"
       duration : "2018-Current"
       content : "Brand management, daily social media, strategy, campaigns, comms, voice and tone development, livestreaming, more."
+      
+      # experience item loop
+      - name : "Social Media Manager + Strategist"
+      company : "Startup Edmonton"
+      duration : "2018-current"
+      content : "Brand voice and tone development, fan engagement, social media management"
       
     # experience item loop
     - name : "Cofounder"
