@@ -126,7 +126,7 @@ call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
   title : "GET IN TOUCH"
-  content : "I'm currently working as a Content Strategist and ready to hear about how you'd like to cultivate those important online conversations for your brand or project. Reach out to demillia@ualberta.ca to connect!"
+  content : "I'm currently working as a Content Strategist and ready to hear about how you'd like to cultivate those important online conversations for your brand or project. Reach out to nevin.demilliano@gmail.com to connect!"
   button:
     enable : true
     label : "SAY HELLO!"
