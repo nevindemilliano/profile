@@ -50,7 +50,7 @@ experience:
   experience_list:
     # experience item loop
     - name : "Content Strategist"
-      company : "Innovate Edmonton, Edmonton Made, Make Something Edmonton (retired)"
+      company : "Edmonton Unlimited, Innovate Edmonton, Edmonton Made, Make Something Edmonton (retired)"
       duration : "2018-Current"
       content : "Brand management, daily social media, strategy, campaigns, comms, voice and tone development, livestreaming, more."
       
@@ -186,21 +186,7 @@ testimonial:
       content : "Nevin has been active, engaged and witty, and growing our fan base. 
                         He understands us, our team, and I feel he would do a fantastic job for anyone else looking to grow their social media."
                 
-    # slider item loop
-    - name : "Peter Parker"
-      image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-                
-    # slider item loop
-    - name : "Jessica Jones"
-      image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-
-
+  
 ######################### funfacts #############################3
 funfacts:
   enable : true
